@@ -12,9 +12,8 @@ This repository contains the analysis and findings from a data study conducted o
 - **Operational Recommendations**: Recommendations for improving bus frequency, route optimization, and facility enhancements at busy stops.
 
 ## Methodology
-1. **Data Collection**: Gathering of raw data from Transjakarta's operational database.
-2. **Data Preparation**: Cleaning, preprocessing, and transformation of data for analysis.
-3. **Data Analysis**: Statistical analysis, data visualization, and deriving actionable insights.
-4. **Recommendations**: Strategic recommendations based on findings to enhance operational efficiency and passenger satisfaction.
+1. **Data Preparation**: Cleaning, preprocessing, and transformation of data for analysis.
+2. **Data Analysis**: Statistical analysis, data visualization, and deriving actionable insights.
+3. **Recommendations**: Strategic recommendations based on findings to enhance operational efficiency and passenger satisfaction.
 
 <a href = 'https://public.tableau.com/app/profile/ergidya.liviani/viz/capstone2_Ergidya/MainPage'>**Dashboard Tableau**</a>
