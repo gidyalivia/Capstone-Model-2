@@ -16,3 +16,5 @@ This repository contains the analysis and findings from a data study conducted o
 2. **Data Preparation**: Cleaning, preprocessing, and transformation of data for analysis.
 3. **Data Analysis**: Statistical analysis, data visualization, and deriving actionable insights.
 4. **Recommendations**: Strategic recommendations based on findings to enhance operational efficiency and passenger satisfaction.
+
+<a href = 'https://public.tableau.com/app/profile/ergidya.liviani/viz/capstone2_Ergidya/MainPage'>**Dashboard Tableau**</a>
